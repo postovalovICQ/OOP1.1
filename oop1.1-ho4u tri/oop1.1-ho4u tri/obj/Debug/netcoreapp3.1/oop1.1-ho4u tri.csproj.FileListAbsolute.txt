@@ -1,0 +1,13 @@
+D:\Проекты Visuo Studio\oop1.1-ho4u tri\oop1.1-ho4u tri\bin\Debug\netcoreapp3.1\oop1.1-ho4u tri.exe
+D:\Проекты Visuo Studio\oop1.1-ho4u tri\oop1.1-ho4u tri\bin\Debug\netcoreapp3.1\oop1.1-ho4u tri.deps.json
+D:\Проекты Visuo Studio\oop1.1-ho4u tri\oop1.1-ho4u tri\bin\Debug\netcoreapp3.1\oop1.1-ho4u tri.runtimeconfig.json
+D:\Проекты Visuo Studio\oop1.1-ho4u tri\oop1.1-ho4u tri\bin\Debug\netcoreapp3.1\oop1.1-ho4u tri.runtimeconfig.dev.json
+D:\Проекты Visuo Studio\oop1.1-ho4u tri\oop1.1-ho4u tri\bin\Debug\netcoreapp3.1\oop1.1-ho4u tri.dll
+D:\Проекты Visuo Studio\oop1.1-ho4u tri\oop1.1-ho4u tri\bin\Debug\netcoreapp3.1\oop1.1-ho4u tri.pdb
+D:\Проекты Visuo Studio\oop1.1-ho4u tri\oop1.1-ho4u tri\obj\Debug\netcoreapp3.1\oop1.1-ho4u tri.csprojAssemblyReference.cache
+D:\Проекты Visuo Studio\oop1.1-ho4u tri\oop1.1-ho4u tri\obj\Debug\netcoreapp3.1\oop1.1-ho4u tri.AssemblyInfoInputs.cache
+D:\Проекты Visuo Studio\oop1.1-ho4u tri\oop1.1-ho4u tri\obj\Debug\netcoreapp3.1\oop1.1-ho4u tri.AssemblyInfo.cs
+D:\Проекты Visuo Studio\oop1.1-ho4u tri\oop1.1-ho4u tri\obj\Debug\netcoreapp3.1\oop1.1-ho4u tri.csproj.CoreCompileInputs.cache
+D:\Проекты Visuo Studio\oop1.1-ho4u tri\oop1.1-ho4u tri\obj\Debug\netcoreapp3.1\oop1.1-ho4u tri.dll
+D:\Проекты Visuo Studio\oop1.1-ho4u tri\oop1.1-ho4u tri\obj\Debug\netcoreapp3.1\oop1.1-ho4u tri.pdb
+D:\Проекты Visuo Studio\oop1.1-ho4u tri\oop1.1-ho4u tri\obj\Debug\netcoreapp3.1\oop1.1-ho4u tri.genruntimeconfig.cache
